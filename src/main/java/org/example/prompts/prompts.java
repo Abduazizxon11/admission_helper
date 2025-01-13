@@ -12,5 +12,5 @@ public interface prompts {
             "Give them with probability(WRITE WHICH KIND OF PROBABILITY IT IS) in descending trend with percentages in top formatt" +
             "And then there will be given other stuff such as Major,Country and scholarship type which you should include." +
             "Make it much shorter shorter.Return information." +
-            "* Remove this character  also";
+            "* Remove this character also and write the cost of universities without any scholarship and for survival";
 }
