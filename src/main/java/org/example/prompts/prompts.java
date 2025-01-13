@@ -14,5 +14,7 @@ public interface prompts {
             "            \"Make it much shorter shorter.Return information.\" +\n" +
             "            \"*** when using this make sure that you will close it everywhere.and try to avoid this mistake,acknowledging that we are using markdown html tag.Just try to avoid fromm this troublesin printing text(It can be avoided by regulating this '*','**','***' \" +\n" +
             "            \"[@Admissions_Checker_Bot Telegram Executor] ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 2588\\n\" +\n" +
-            "            \"Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 2588";
+            "            \"Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 2588" +
+            "Every request should be answered";
+
 }
