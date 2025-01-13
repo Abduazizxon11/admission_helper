@@ -144,7 +144,7 @@ public class MyBot extends TelegramLongPollingBot {
                     editMessageCaptionAndInlineKeyboard(update,"Qabul qilindi...Biroz kutub turing");
                     Resp print = print(chatId);
                     String output = print.getOutput();
-                    send(chatId,output);
+                    send(chatId,output, "Markdown");
                 }
             }
 
